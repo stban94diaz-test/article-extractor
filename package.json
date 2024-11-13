@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.16"
+  },
+  "scripts": {
+    "start": "bun index.js"
+  }
+}
